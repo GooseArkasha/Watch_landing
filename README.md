@@ -1,5 +1,6 @@
 # Watsh Landing
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 Это мой первый проект по верстке. Я не ставила цель создать идеальный адаптивыный кроссбраузерный макет. Это просто первый шаг. С повторяющимися кусками кода. Не идеальным оформлением. Он наверняка поплывет, если открыть его не на моем ноуте. Я преследовала другие цели.
 
 **Цели проекта:**
